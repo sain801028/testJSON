@@ -1,12 +1,12 @@
 {
   "user_id": "miflytest",
   "proj_id": "",
-  "proj_name": "",
+  "proj_name": "專案名稱未命名",
   "snapshot_url": "https://d2ujflorbtfzji.cloudfront.net/package-screenshot/8832874c-5146-497d-a9b3-d0c2946f4fd2_scaled.jpg",
   "editor_ver": "1.7.8",
   "scenes": [
     {
-      "scene_id": "b49db97c-7f8e-4ebf-afb6-13cc8e54948f",
+      "scene_id": "c7186fa2-15a4-4af1-9695-a0669d506cf7",
       "scene_name": "場景1",
       "scene_skybox_res_id": "",
       "scene_skybox_url": "https://www.360visio.com/wp-content/uploads/v2/20b-Milano360/20g-1-ParchiGiardini/MI-f1PcoSempioneTorreBranca/1330409-MI-PcoSempioneTorreBranca-rX2j-T.jpg",
@@ -15,7 +15,7 @@
           "main_type": "camera",
           "sub_type": "VRcamera",
           "obj_type": "3d",
-          "obj_id": "8792045f-3fcf-4f7a-9aad-58884665d020",
+          "obj_id": "0bac30e5-9ed1-490a-8480-9ccb97f01e1c",
           "obj_parent_id": "",
           "res_id": "",
           "res_name": "\u0056\u0052\u0020\u0043\u0061\u006D\u0065\u0072\u0061",
@@ -27,55 +27,22 @@
             "0,0,0",
             "1,1,1"
           ]
-        }
-      ]
-    },
-    {
-      "scene_id": "c0a2bb91-92b1-41f0-805d-4cba8fe4f73b",
-      "scene_name": "場景2",
-      "scene_skybox_res_id": "",
-      "scene_skybox_url": "http://scion-social.com/blog/wp-content/uploads/2016/07/360-panorama-matador-seo.jpg",
-      "scene_objs": [
+        },
         {
-          "main_type": "camera",
-          "sub_type": "VRcamera",
+          "main_type": "video",
+          "sub_type": "youtube",
           "obj_type": "3d",
-          "obj_id": "927afc97-8891-4410-9eb7-dff82d28263c",
+          "obj_id": "6e50c27b-d139-4e7f-873f-0b0832534593",
           "obj_parent_id": "",
-          "res_id": "",
-          "res_name": "\u0056\u0052\u0020\u0043\u0061\u006D\u0065\u0072\u0061",
-          "res_url": "",
+          "res_id": "MREQyRfJF2sUqqyZhfdiOUBV",
+          "res_name": "\u006D\u0069\u0066\u006C\u0079",
+          "res_url": "https://www.youtube.com/watch?v=m29aSwc4yF8",
           "default_shader_name": "",
           "active": true,
           "transform": [
+            "0,0,5.020064",
             "0,0,0",
-            "0,0,0",
-            "1,1,1"
-          ]
-        }
-      ]
-    },
-    {
-      "scene_id": "1ca7ff13-0c93-404f-ab38-a47e6b6db7e6",
-      "scene_name": "場景3",
-      "scene_skybox_res_id": "",
-      "scene_skybox_url": "https://www.360visio.com/wp-content/uploads/v2/20b-Milano360/20g-1-ParchiGiardini/MI-f1PcoSempioneTorreBranca/1330409-MI-PcoSempioneTorreBranca-rX2j-T.jpg",
-      "scene_objs": [
-        {
-          "main_type": "camera",
-          "sub_type": "VRcamera",
-          "obj_type": "3d",
-          "obj_id": "2f0505a1-ee8b-4164-82e9-e4819d86ccd4",
-          "obj_parent_id": "",
-          "res_id": "",
-          "res_name": "\u0056\u0052\u0020\u0043\u0061\u006D\u0065\u0072\u0061",
-          "res_url": "",
-          "default_shader_name": "",
-          "active": true,
-          "transform": [
-            "0,0,0",
-            "0,0,0",
-            "1,1,1"
+            "5,5,1"
           ]
         }
       ]
